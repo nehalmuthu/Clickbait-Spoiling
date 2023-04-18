@@ -1,1 +1,1 @@
-# Clickbait-BERT
+# Clickbait-Spoiling
