@@ -6,7 +6,8 @@
 
 ### Implementation of the Research Work: [paper](https://aclanthology.org/2022.acl-long.484.pdf)
 
-Our Novel Input - tackling the multi-part click-baits using abstractive summarization models.
+- We have implemented the Sota Q&A models. 
+- Our Novel Input - tackling the multi-part click-baits using summarization models.
 
 
 ## Models 
