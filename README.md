@@ -34,14 +34,10 @@ Our novel input is to handle multi-part clickbaits using summarization models. W
 - FewShot Promt Engineering with GPT
 
 The finetuned models for Q&A and summarization can be found using the links mentioned below:
-### Q&A:
 - BERT: [model](https://drive.google.com/file/d/1BA4DpqpJtgJZPNkw5_w0__uPuyjZV5gQ/view?usp=share_link)
 - RoBERTa: [model](https://drive.google.com/file/d/1RDMBrVld4909DyM0Cs8gcazjUAfPZCFF/view?usp=share_link)
 - DeBERTa: [model](https://drive.google.com/file/d/1xJK-r6Z7Zubm1o8CCkFUKan3U-Q1CVkt/view?usp=share_link)
-
-### Summarization:
 - BART
-- FewShot Promt Engineering with GPT
 
 
 ## Running the Code
