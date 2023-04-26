@@ -1,17 +1,24 @@
 # Clickbait-Spoiling
+This repository contains the implementation of the state-of-the-art Q&A models for the Phrase type clickbaits and the novel approach to handle Multi-part clickbaits using summarization models.
+
+#### Semeval 2023 : [link](https://pan.webis.de/semeval23/pan23-web/clickbait-challenge.html).
 
 
-### Semeval 2023 : [link](https://pan.webis.de/semeval23/pan23-web/clickbait-challenge.html).
+#### Implementation of the Research Work: [paper](https://aclanthology.org/2022.acl-long.484.pdf)
 
 
-### Implementation of the Research Work: [paper](https://aclanthology.org/2022.acl-long.484.pdf)
 
-- We have implemented the Sota Q&A models. 
-- Our Novel Input - tackling the multi-part click-baits using summarization models.
+## Implementation Details
+We have implemented the following Q&A models:
+- BERT
+- RoBERTa
+- DeBERTa
 
+Our novel input is to handle multi-part clickbaits using summarization models. We have implemented the following summarization models:
+- BART
+- FewShot Promt Engineering with GPT
 
-## Models 
-#### Our fintuned models can be found under the following links  
+The finetuned models for Q&A and summarization can be found using the links mentioned below:
 ### Q&A:
 - BERT: [model](https://drive.google.com/file/d/1BA4DpqpJtgJZPNkw5_w0__uPuyjZV5gQ/view?usp=share_link)
 - RoBERTa: [model](https://drive.google.com/file/d/1RDMBrVld4909DyM0Cs8gcazjUAfPZCFF/view?usp=share_link)
@@ -22,44 +29,31 @@
 - FewShot Promt Engineering with GPT
 
 
-## Run the Code
-
+## Running the Code
 ### For Q&A models
-#### For each Model we have a Train file and a Test file. All the Notebooks are well documented, so it can be followed from there.
-- TRAIN Files:
-To train and finetune the model from scratch, use the Train file.
-- TEST Files:
-To just predict and get the results using our finetuned model use the Test file.
+For each model, we have a train and a test file. All the notebooks are well-documented, so you can follow the instructions there.
+
+- Training:
+To train and fine-tune the model from scratch, use the Train file.
+
+- Testing:
+To predict and get the results using our fine-tuned model, use the Test file.
 
 ### For Summarization Models
-#### All the Notebooks are well documented, so it can be followed from there.
+All the notebooks are well-documented, so you can follow the instructions there.
 
-
-
-### Running Environment: 
-Colab - GPU
-
-
+### Running Environment
+The code has been implemented and tested in Colab with GPU acceleration.
 
 ## Results
-
-#### Q&A Models - Phrase type Clickbaits
+### Q&A Models - Phrase type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
 | BERT (baseline) |  58.25 | 55.24 |
 | RoBERTa | 63.92 | 65.40 |
 | DeBERTa | 65.43 | 66.04 |
-
-
-#### Summarization Models - Multi-part type Clickbaits
+### Summarization Models - Multi-part type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
 | Promt-GPT | 63.38 | 57.53 |
 | BART | -- | -- |
-
-
-
-
-
-
-
