@@ -24,10 +24,15 @@
 
 ## Run the Code
 #### For each Models we have a Train file and a Test file. All the Notebooks are well documented, so it can be followed from there.
-### TRAIN Files:
+#### TRAIN Files:
 To train and finetune the model from scratch, use the Train file.
-### TEST Files:
+#### TEST Files:
 To just predict and get the results using our finetuned model use the Test file.
+
+#### Running Environment: 
+Colab - GPU
+
+
 
 ## Results
 
@@ -35,15 +40,15 @@ To just predict and get the results using our finetuned model use the Test file.
 | Models | BLEU | METEOR|
 | --- | --- | --- |
 | BERT (baseline) |  58.25 | 55.24 |
-| RoBERTa | 63.92 | 65.4 |
-| DeBERTa | 45 | 32 |
+| RoBERTa | 63.92 | 65.40 |
+| DeBERTa | 65.43 | 66.04 |
 
 
 #### Summarization Models - Multi-part type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
-| Promt-GPT | 50 |  |
-| BART | 45 | 44 |
+| Promt-GPT | 50 | 22 |
+| BART | 22 | 44 |
 
 
 
