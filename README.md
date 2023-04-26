@@ -41,14 +41,14 @@ Colab - GPU
 | --- | --- | --- |
 | BERT (baseline) |  58.25 | 55.24 |
 | RoBERTa | 63.92 | 65.4 |
-| DeBERTa | 45 | 32 |
+| DeBERTa | 65.43 | 66.04 |
 
 
 #### Summarization Models - Multi-part type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
-| Promt-GPT | 50 |  |
-| BART | 45 | 44 |
+| Promt-GPT | 50 | 22 |
+| BART | 22 | 44 |
 
 
 
