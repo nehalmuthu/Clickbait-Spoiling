@@ -39,6 +39,12 @@ To just predict and get the results using our finetuned model use the Test file.
 | DeBERTa | 45 | 32 |
 
 
+#### Summarization Models - Multi-part type Clickbaits
+| Models | BLEU | METEOR|
+| --- | --- | --- |
+| Promt-GPT | 50 | 2 |
+| BART | 45 | 44 |
+
 
 
 
