@@ -40,7 +40,7 @@ Colab - GPU
 | Models | BLEU | METEOR|
 | --- | --- | --- |
 | BERT (baseline) |  58.25 | 55.24 |
-| RoBERTa | 63.92 | 65.4 |
+| RoBERTa | 63.92 | 65.40 |
 | DeBERTa | 65.43 | 66.04 |
 
 
