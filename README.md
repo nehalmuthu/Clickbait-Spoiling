@@ -66,4 +66,4 @@ The code has been implemented and tested in Colab with GPU acceleration.
 | Models | BLEU | METEOR|
 | --- | --- | --- |
 | Prompt-GPT | 63.38 | 57.53 |
-| BART | 60.87 | 58.65 |
+| BART | 50.87 | 48.65 |
