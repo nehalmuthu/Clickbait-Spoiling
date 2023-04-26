@@ -11,6 +11,8 @@ Spoiler is of 3 types:
 
 This repository contains the implementation of the state-of-the-art Q&A models for the Phrase type spoilers and the novel approach to handle Multi-part spoilers using summarization models.
 
+
+
 #### Semeval 2023 : [link](https://pan.webis.de/semeval23/pan23-web/clickbait-challenge.html).
 
 
