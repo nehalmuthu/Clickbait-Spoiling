@@ -12,8 +12,7 @@ Spoiler is of 3 types:
 - Phrase
 - Passage
 - Multi-part
-
-<img src="./spoilertype.png" alt="Image Title" width="250" height="250">
+<img src="./spoilertype.png" alt="Image Title" width="500" height="350">
 
 
 
