@@ -57,13 +57,13 @@ All the notebooks are well-documented, so you can follow the instructions there.
 The code has been implemented and tested in Colab with GPU acceleration.
 
 ## Results
-### Q&A Models - Phrase type Clickbaits
+### Q&A Models - Phrase type Spoiler
 | Models | BLEU | METEOR|
 | --- | --- | --- |
 | BERT (baseline) |  58.25 | 55.24 |
 | RoBERTa | 63.92 | 65.40 |
 | DeBERTa | 65.43 | 66.04 |
-### Summarization Models - Multi-part type Clickbaits
+### Summarization Models - Multi-part type Spoiler
 | Models | BLEU | METEOR|
 | --- | --- | --- |
 | Prompt-GPT | 63.38 | 57.53 |
