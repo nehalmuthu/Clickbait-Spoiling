@@ -13,7 +13,7 @@ Spoiler is of 3 types:
 - Passage
 - Multi-part
 
-![alt text](./spoilertype.png, "Image Title" =250x250)
+<img src="./spoilertype.png" alt="Image Title" width="250" height="250">
 
 
 
