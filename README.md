@@ -1,5 +1,15 @@
 # Clickbait-Spoiling
-This repository contains the implementation of the state-of-the-art Q&A models for the Phrase type clickbaits and the novel approach to handle Multi-part clickbaits using summarization models.
+
+## TASK
+Generate concise and captivating texts(spoilers) for clickbait posts that satiate users’ curiosity.
+
+Spoiler is of 3 types:
+- Phrase
+- Passage
+- Multi-part
+
+
+This repository contains the implementation of the state-of-the-art Q&A models for the Phrase type spoilers and the novel approach to handle Multi-part spoilers using summarization models.
 
 #### Semeval 2023 : [link](https://pan.webis.de/semeval23/pan23-web/clickbait-challenge.html).
 
