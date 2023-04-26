@@ -19,16 +19,16 @@
 
 ### Summarization:
 - BART
-- Promt Engineering with GPT
+- FewShot Promt Engineering with GPT
 
 
 ## Run the Code
 
 ### For Q&A models
 #### For each Model we have a Train file and a Test file. All the Notebooks are well documented, so it can be followed from there.
-##### TRAIN Files:
+- TRAIN Files:
 To train and finetune the model from scratch, use the Train file.
-##### TEST Files:
+- TEST Files:
 To just predict and get the results using our finetuned model use the Test file.
 
 ### For Summarization Models
