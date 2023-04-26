@@ -31,10 +31,12 @@ To just predict and get the results using our finetuned model use the Test file.
 
 ## Results
 
+#### Q&A Models - Phrase type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
-| git status | List all new or modified files | 2 |
-| git diff | Show file differences that haven't been staged | 3 |
+| BERT (baseline) | 50 | 2 |
+| RoBERTa |45 | 44 |
+| DeBERTa | 45 | 32 |
 
 
 
