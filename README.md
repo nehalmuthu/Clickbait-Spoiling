@@ -47,8 +47,8 @@ Colab - GPU
 #### Summarization Models - Multi-part type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
-| Promt-GPT | 50 | 22 |
-| BART | 22 | 44 |
+| Promt-GPT | 63.38 | 57.53 |
+| BART | -- | -- |
 
 
 
