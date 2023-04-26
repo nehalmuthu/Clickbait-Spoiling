@@ -25,9 +25,9 @@
 ## Run the Code
 #### For each Models we have a Train file and a Test file. All the Notebooks are well documented, so it can be followed from there.
 ### TRAIN Files:
-To train and finetune, run the Train file.
+To train and finetune the model from scratch, use the Train file.
 ### TEST Files:
-To just predict and get the results using our finetuned model run the Test file.
+To just predict and get the results using our finetuned model use the Test file.
 
 ## Results
 
