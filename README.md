@@ -5,8 +5,7 @@ Generate concise and captivating texts(spoilers) for clickbait posts that satiat
 
 
 This repository contains the implementation of the state-of-the-art Q&A models for the Phrase type spoilers and the novel approach to 
-handle Multi-part spoilers using summarization models.
-
+handle Multi-part spoilers using summarization models. 
 
 Spoiler is of 3 types:
 - Phrase
