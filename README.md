@@ -31,7 +31,7 @@ We have implemented the following Q&A models:
 
 Our novel input is to handle multi-part clickbaits using summarization models. We have implemented the following summarization models:
 - BART
-- FewShot Promt Engineering with GPT
+- FewShot Prompt Engineering with GPT
 
 The finetuned models for Q&A and summarization can be found using the links mentioned below:
 - BERT: [model](https://drive.google.com/file/d/1BA4DpqpJtgJZPNkw5_w0__uPuyjZV5gQ/view?usp=share_link)
@@ -66,5 +66,5 @@ The code has been implemented and tested in Colab with GPU acceleration.
 ### Summarization Models - Multi-part type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
-| Promt-GPT | 63.38 | 57.53 |
+| Prompt-GPT | 63.38 | 57.53 |
 | BART | -- | -- |
