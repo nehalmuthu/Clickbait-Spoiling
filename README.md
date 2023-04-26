@@ -29,7 +29,8 @@ To train and finetune the model from scratch, use the Train file.
 #### TEST Files:
 To just predict and get the results using our finetuned model use the Test file.
 
-#### Running Environment: Colab - GPU
+#### Running Environment: 
+Colab - GPU
 
 
 
