@@ -34,15 +34,15 @@ To just predict and get the results using our finetuned model use the Test file.
 #### Q&A Models - Phrase type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
-| BERT (baseline) | 50 | 2 |
-| RoBERTa |45 | 44 |
+| BERT (baseline) |  58.25 | 55.24 |
+| RoBERTa | 63.92 | 65.4 |
 | DeBERTa | 45 | 32 |
 
 
 #### Summarization Models - Multi-part type Clickbaits
 | Models | BLEU | METEOR|
 | --- | --- | --- |
-| Promt-GPT | 50 | 2 |
+| Promt-GPT | 50 |  |
 | BART | 45 | 44 |
 
 
