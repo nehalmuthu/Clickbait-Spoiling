@@ -4,6 +4,7 @@
 Generate concise and captivating texts(spoilers) for clickbait posts that satiate users’ curiosity.
 
 Natural Language Processing, Natural Language Understanding and Natural Language Generation.
+
 Tasks performed: Summarisation, Classification, Q&A and Generation.
 
 
