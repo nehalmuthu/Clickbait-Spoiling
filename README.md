@@ -3,6 +3,9 @@
 ## TASK
 Generate concise and captivating texts(spoilers) for clickbait posts that satiate users’ curiosity.
 
+Natural Language Processing, Natural Language Understanding and Natural Language Generation.
+Tasks performed: Summarisation, Classification, Q&A and Generation.
+
 
 This repository contains the implementation of the state-of-the-art Q&A models for the Phrase type spoilers and the novel approach to 
 handle Multi-part spoilers using summarization models. 
